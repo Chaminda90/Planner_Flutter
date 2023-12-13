@@ -1,18 +1,20 @@
-# Planner_Flutter
-
+Planner_Flutter
 Women's Handbag Shopping Cart Mobile App Overview
 
-Welcome to the Women's Handbag Shopping Cart app! This mobile application is developed using Flutter framework with Dart programming language. The app provides a seamless and user-friendly experience for shopping for women's handbags. Features
+Welcome to Planner_Flutter, your go-to mobile application for an exquisite shopping experience for women's handbags. Built with Flutter and Dart, this app ensures a seamless and user-friendly interface, making your handbag shopping enjoyable.
+Features
 
-Browse Handbags: Explore a wide range of women's handbags with detailed product information.
-Shopping Cart: Add handbags to your cart and manage your shopping selections.
-Getting Started Prerequisites
+    Browse Handbags: Explore an extensive collection of women's handbags with detailed product information.
+    Shopping Cart: Easily manage your shopping selections by adding handbags to your cart.
 
-Flutter
-Visual Studio Code
-Dart SDK
-Installation
+Getting Started
+Prerequisites
 
+Before you begin, ensure that you have the following installed:
+
+    Flutter
+    Visual Studio Code
+    Dart SDK
 Clone the repository:
 
 bash
