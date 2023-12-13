@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 
 bash
-git clone [https://github.com/your-username/womens-handbag-shopping-cart.git](https://github.com/AnupamaDevindi/Planner_Flutter/tree/main)
+git clone https://github.com/AnupamaDevindi/Planner_Flutter
 
 Open the project in Visual Studio Code.
 
